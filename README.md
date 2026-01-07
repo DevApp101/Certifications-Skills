@@ -22,7 +22,7 @@ CPrompt engineering & prompt optimization
 •Guiding and controlling generative AI outputs
 •Applying generative AI to marketing use cases
 •Vertex AI & Google Cloud fundamentals
-<img width="1000" height="666" alt="image" src="https://github.com/user-attachments/assets/539f947d-7287-4778-9829-0976df3a0f04" />
+<img width="517" height="347" alt="image" src="https://github.com/user-attachments/assets/539f947d-7287-4778-9829-0976df3a0f04" />
 
 #Operationalizing Responsible AI – Google Cloud
 Practical training in implementing responsible, ethical, and transparent AI/ML systems using Google Cloud best practices and enterprise frameworks.
@@ -35,7 +35,7 @@ Practical training in implementing responsible, ethical, and transparent AI/ML s
 •Operationalizing responsible AI at scale
 •Enterprise AI/ML best practices
 •Google Cloud AI governance frameworks
-<img width="1000" height="909" alt="image" src="https://github.com/user-attachments/assets/2b56d282-db47-4038-bb04-4966ac44df1b" />
+<img width="517" height="347" alt="image" src="https://github.com/user-attachments/assets/2b56d282-db47-4038-bb04-4966ac44df1b" />
 
 #PMLE Certification Preparation – Google Cloud
 Developed a structured study plan and assessed readiness across Professional Machine Learning Engineer exam domains.
@@ -47,7 +47,7 @@ PMLE certification domains and exam structure
 •ML deployment, monitoring, and lifecycle management
 •Exam readiness assessment and structured study planning
 •Google Cloud ML engineering best practices
-<img width="1000" height="909" alt="image" src="https://github.com/user-attachments/assets/75669c12-9e7a-464d-bb3b-12c02b512397" />
+<img width="517" height="347" alt="image" src="https://github.com/user-attachments/assets/75669c12-9e7a-464d-bb3b-12c02b512397" />
 
 #Introduction to Responsible AI – Google Cloud
 Foundational knowledge of ethical and responsible AI concepts and Google’s AI principles.
@@ -57,7 +57,7 @@ Key concepts covered:
 •AI risk awareness and mitigation (introductory level)
 •Fairness, accountability, and transparency concepts
 •Google’s AI principles and their application in products
-<img width="1000" height="909" alt="image" src="https://github.com/user-attachments/assets/bf3c3bd5-e5e7-47c6-97c1-6525e1263e73" />
+<img width="517" height="347" alt="image" src="https://github.com/user-attachments/assets/bf3c3bd5-e5e7-47c6-97c1-6525e1263e73" />
 
 #Introduction to Large Language Models – Google Cloud
 Foundational knowledge of LLMs, prompt tuning, and Google Cloud tools for generative AI app development.
@@ -67,7 +67,7 @@ Foundational knowledge of LLMs, prompt tuning, and Google Cloud tools for genera
 •Prompt tuning and performance optimization
 •Generative AI application development concepts
 •Google Cloud tools for GenAI development
-<img width="1000" height="909" alt="image" src="https://github.com/user-attachments/assets/04d04089-802d-4231-9fe5-8bb0c1bece9e" />
+<img width="517" height="347" alt="image" src="https://github.com/user-attachments/assets/04d04089-802d-4231-9fe5-8bb0c1bece9e" />
 
 #Introduction to Generative AI – Google Cloud
 Foundational understanding of Generative AI concepts, use cases, and Google Cloud tools for GenAI development.
@@ -77,6 +77,6 @@ Key concepts & skills covered:
 •Common GenAI use cases and applications
 •Overview of generative models and workflows
 •Google Cloud tools for GenAI app development
-<img width="1000" height="909" alt="image" src="https://github.com/user-attachments/assets/1aef91b1-5ca5-4fa9-97f6-17be9f142746" />
+<img width="517" height="347" alt="image" src="https://github.com/user-attachments/assets/1aef91b1-5ca5-4fa9-97f6-17be9f142746" />
 
 
