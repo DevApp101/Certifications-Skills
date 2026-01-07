@@ -11,9 +11,10 @@ Completed: May 2023
 • Understood security controls, countermeasures, and cybersecurity laws
 
 • Gained practical exposure to protecting networks, data, and systems
+
 #Key Skills Gained:
 
-Cybersecurity fundamentals
+•Cybersecurity fundamentals
 
 •Threats, vulnerabilities, and attack vectors
 
@@ -88,7 +89,7 @@ Practical training in implementing responsible, ethical, and transparent AI/ML s
 
 #PMLE Certification Preparation – Google Cloud
 Developed a structured study plan and assessed readiness across Professional Machine Learning Engineer exam domains.
-Key skills gained:
+#Key skills gained:
 
 PMLE certification domains and exam structure
 
@@ -110,7 +111,7 @@ PMLE certification domains and exam structure
 
 #Introduction to Responsible AI – Google Cloud
 Foundational knowledge of ethical and responsible AI concepts and Google’s AI principles.
-Key concepts covered:
+#Key concepts covered:
 
 •Foundations of Responsible AI
 
@@ -150,7 +151,7 @@ Foundational knowledge of LLMs, prompt tuning, and Google Cloud tools for genera
 
 #Introduction to Generative AI – Google Cloud
 Foundational understanding of Generative AI concepts, use cases, and Google Cloud tools for GenAI development.
-Key concepts & skills covered:
+#Key concepts & skills covered:
 
 •Fundamentals of Generative AI
 
