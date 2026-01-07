@@ -3,9 +3,13 @@
 
 #Cybersecurity Essentials — Cisco Networking Academy
 Completed: May 2023
+
 • Covered cybersecurity threats, vulnerabilities, and attack techniques
+
 • Learned confidentiality, integrity, availability (CIA triad)
+
 • Understood security controls, countermeasures, and cybersecurity laws
+
 • Gained practical exposure to protecting networks, data, and systems
 
 
@@ -19,11 +23,17 @@ Completed: Nov 2025
 Hands-on experience with prompt engineering, image analysis, and multimodal generative AI using Gemini models in Vertex AI, with practical application to marketing and content-generation use cases.
 
 #Key skills gained:
+
 CPrompt engineering & prompt optimization
+
 •Multimodal generative AI (text + image)
+
 •Image analysis using Gemini models
+
 •Guiding and controlling generative AI outputs
+
 •Applying generative AI to marketing use cases
+
 •Vertex AI & Google Cloud fundamentals
 
 
@@ -34,12 +44,19 @@ CPrompt engineering & prompt optimization
 Practical training in implementing responsible, ethical, and transparent AI/ML systems using Google Cloud best practices and enterprise frameworks.
 
 #Key skills gained:
+
 •Responsible AI principles and governance
+
 •Ethical AI and risk mitigation strategies
+
 •AI fairness, bias detection, and transparency
+
 •Privacy-aware and secure AI/ML development
+
 •Operationalizing responsible AI at scale
+
 •Enterprise AI/ML best practices
+
 •Google Cloud AI governance frameworks
 
 
@@ -51,10 +68,15 @@ Developed a structured study plan and assessed readiness across Professional Mac
 Key skills gained:
 
 PMLE certification domains and exam structure
+
 •End-to-end ML system design on Google Cloud
+
 •Data preparation, model training, and evaluation concepts
+
 •ML deployment, monitoring, and lifecycle management
+
 •Exam readiness assessment and structured study planning
+
 •Google Cloud ML engineering best practices
 
 
