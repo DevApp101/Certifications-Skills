@@ -64,10 +64,15 @@ PMLE certification domains and exam structure
 #Introduction to Responsible AI – Google Cloud
 Foundational knowledge of ethical and responsible AI concepts and Google’s AI principles.
 Key concepts covered:
+
 •Foundations of Responsible AI
+
 •Ethical and trustworthy AI principles
+
 •AI risk awareness and mitigation (introductory level)
+
 •Fairness, accountability, and transparency concepts
+
 •Google’s AI principles and their application in products
 
 
@@ -77,10 +82,15 @@ Key concepts covered:
 #Introduction to Large Language Models – Google Cloud
 Foundational knowledge of LLMs, prompt tuning, and Google Cloud tools for generative AI app development.
 #Key concepts & skills covered:
+
 •Fundamentals of Large Language Models (LLMs)
+
 •LLM use cases and limitations
+
 •Prompt tuning and performance optimization
+
 •Generative AI application development concepts
+
 •Google Cloud tools for GenAI development
 
 
@@ -90,6 +100,7 @@ Foundational knowledge of LLMs, prompt tuning, and Google Cloud tools for genera
 #Introduction to Generative AI – Google Cloud
 Foundational understanding of Generative AI concepts, use cases, and Google Cloud tools for GenAI development.
 Key concepts & skills covered:
+
 •Fundamentals of Generative AI
 
 •Generative AI vs traditional machine learning
