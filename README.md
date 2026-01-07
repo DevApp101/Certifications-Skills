@@ -11,6 +11,23 @@ Completed: May 2023
 • Understood security controls, countermeasures, and cybersecurity laws
 
 • Gained practical exposure to protecting networks, data, and systems
+#Key Skills Gained:
+
+Cybersecurity fundamentals
+
+•Threats, vulnerabilities, and attack vectors
+
+•Security principles (CIA Triad)
+
+•Network and data protection concepts
+
+•Security controls and countermeasures
+
+•Basic risk assessment and mitigation
+
+•Cybersecurity policies, laws, and compliance awareness
+
+•Incident awareness and defensive security concepts
 
 
 
